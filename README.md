@@ -23,7 +23,6 @@ My name is Santiago Gonzalez de Cosio! I am a Software Engineering student at Te
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sant-gdc&layout=donut)](https://github.com/sant-gdc/github-readme-stats)
 </div>
 
 ## Frameworks and Technologies
@@ -33,6 +32,7 @@ My name is Santiago Gonzalez de Cosio! I am a Software Engineering student at Te
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </div>
 
 ## Database
@@ -42,6 +42,8 @@ My name is Santiago Gonzalez de Cosio! I am a Software Engineering student at Te
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
 
+## Resume 📃
+[![My Resume!](https://img.shields.io/badge/Get%20My%20-Resume!-blue.svg)](https://github.com/sant-gdc/sant-gdc/blob/main/SGCR-CV.pdf)
 
 ## Contact Me 📫
 <a href="https://www.linkedin.com/in/sgcr/">
