@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Santiago Gonzalez de Cosio! I am a Software Engineering student at Tec de Monterrey, Campus Guadalajara. And these are some of my projects 
-* 📰 Currently a Software and System Validation Intern at Intel
+My name is Santiago Gonzalez de Cosio! I am a Software Developer living in Guadalajara Mexico. And these are some of my projects 
+* 📰 Currently a Software and System Data Engineer at Oracle
 * 📫 How to reach me:
 * 📧 santi.gdc17@outlook.com
 
